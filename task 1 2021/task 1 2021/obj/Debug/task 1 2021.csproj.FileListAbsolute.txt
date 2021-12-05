@@ -1,0 +1,35 @@
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.AssemblyReference.cache
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Properties.Resources.resources
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.GenerateResource.cache
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.CoreCompileInputs.cache
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csprojAssemblyReference.cache
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Form1.resources
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Properties.Resources.resources
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.GenerateResource.cache
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.CoreCompileInputs.cache
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csprojAssemblyReference.cache
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Form1.resources
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Properties.Resources.resources
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.GenerateResource.cache
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.exe.config
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.exe
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.pdb
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.exe
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.pdb
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.exe.config
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.exe
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\bin\Debug\task 1 2021.pdb
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.frm1.resources
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.exe
+C:\Users\bagge\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.pdb
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.AssemblyReference.cache
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.frm1.resources
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.Properties.Resources.resources
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.GenerateResource.cache
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.csproj.CoreCompileInputs.cache
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.exe
+C:\Users\bagge\Documents\GitHub\task-2-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.pdb
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.frm1.resources
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.exe
+C:\Users\bagge\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task 1 2021.pdb
+C:\Users\ayrin\OneDrive\Documents\GitHub\task-1-2021\task 1 2021\task 1 2021\obj\Debug\task_1_2021.frm1.resources
